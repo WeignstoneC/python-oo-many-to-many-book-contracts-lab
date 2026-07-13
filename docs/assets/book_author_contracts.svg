@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  <rect x="80" y="120" width="220" height="140" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <rect x="340" y="120" width="220" height="140" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <rect x="600" y="120" width="220" height="140" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="190" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#1e3a8a">Book</text>
+  <text x="450" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#166534">Author</text>
+  <text x="710" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#92400e">Contract</text>
+  <text x="190" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1e3a8a">title</text>
+  <text x="450" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#166534">name</text>
+  <text x="710" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#92400e">date + royalties</text>
+  <line x1="300" y1="190" x2="340" y2="190" stroke="#64748b" stroke-width="3"/>
+  <line x1="560" y1="190" x2="600" y2="190" stroke="#64748b" stroke-width="3"/>
+  <text x="450" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#334155">Many-to-many relationship through contracts</text>
+</svg>
